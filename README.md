@@ -13,7 +13,7 @@ This is the **beginning of my dream to build something massive.**
 I'm not perfect. I'm not fast.  
 But I am *relentless.* 💥
 
-> _"I don't just learn... I build."_ — Amit 🔥
+> _"I don't just learn... I build."_ — Amit Kumar Prasad🔥
 
 ---
 
