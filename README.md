@@ -1,4 +1,4 @@
-# My Web Development Learning Journey 🚀
+# My Coding Journey 🚀
 
 Welcome to my learning repo!  
 Here you'll find all my projects, notes, and practice code as I build my skills in:
