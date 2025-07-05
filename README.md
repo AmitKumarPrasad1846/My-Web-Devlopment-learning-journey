@@ -8,6 +8,7 @@ Here you'll find all my projects, notes, and practice code as I build my skills 
 - 🧠 JavaScript
 - 📊 SQL
 - 🤖 AI & Machine Learning (Coming soon...)
+- 👉And many more...
 
 This is the **beginning of my dream to build something massive.**  
 I'm not perfect. I'm not fast.  
